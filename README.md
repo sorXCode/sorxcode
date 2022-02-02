@@ -9,6 +9,7 @@
 - 🍜 Twitter: [@sorxcode](https://twitter.com/sorxcode)
 - 🍜 LinkedIn: [Sorxcode](http://linkedin.com/in/sorxcodex)
 
-- ☕ Fun fact: Nationally ranked within the SCAA
+- ☕ Fun fact: <!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
 
 ![sorxcode's github stats](https://github-readme-stats.vercel.app/api?username=sorxcode&show_icons=true&theme=highcontrast)
