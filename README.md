@@ -2,7 +2,7 @@
 
 - 🔭 Role: Software Engineer
 - 🛠 Learning: Smart contracts // Go
-- 🤹‍ Familiar with: ERC
+- 🤹‍ Familiar with: ERC, EIP
 - 🎯 Currently working with: Python, solidity, and k8s
 - 🏓 I’m looking to collaborate on: Web3 learning // Software Engineering
 - 🍜 Discord: sorxcode#3183
@@ -14,3 +14,4 @@
 <!--ENDS_HERE_QUOTE_README-->
 
 ![sorxcode's github stats](https://github-readme-stats.vercel.app/api?username=sorxcode&show_icons=true&theme=highcontrast)
+[![sorxcode Streak](https://github-readme-streak-stats.herokuapp.com/?user=sorxcode&theme=dark)](https://git.io/streak-stats)
