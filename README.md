@@ -10,7 +10,7 @@
 - 🍜 LinkedIn: [Sorxcode](http://linkedin.com/in/sorxcodex)
 
 - ☕ Fun fact: <!--STARTS_HERE_QUOTE_README-->
-<i>❝elgoog.im (Google spelled backwards) is a mirrored website of Google Search with horizontally flipped search results, also known as a “Google mirror”. An unofficial elgooG website was created by All Too Flat “for fun”, which started to gain popularity in 2002❞</i>
+<i>❝“In a software project team of 10, there are probably 3 people who produce enough defects to make them net negative producers.”— Gordon Schulmeyer   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![sorxcode's github stats](https://github-readme-stats.vercel.app/api?username=sorxcode&show_icons=true&theme=highcontrast)
