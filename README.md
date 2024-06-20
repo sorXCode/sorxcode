@@ -10,7 +10,7 @@
 - 🍜 LinkedIn: [Sorxcode](http://linkedin.com/in/sorxcodex)
 
 - ☕ Fun fact: <!--STARTS_HERE_QUOTE_README-->
-<i>❝“XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.”— Charles Simonyi   ❞</i>
+<i>❝If you open up the case of the original Macintosh, there are 47 signatures there, which are from each member of Apple’s Macintosh division in Interesting?❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![sorxcode's github stats](https://github-readme-stats.vercel.app/api?username=sorxcode&show_icons=true&theme=highcontrast)
