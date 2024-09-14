@@ -10,7 +10,7 @@
 - 🍜 LinkedIn: [Sorxcode](http://linkedin.com/in/sorxcodex)
 
 - ☕ Fun fact: <!--STARTS_HERE_QUOTE_README-->
-<i>❝Mortal Kombat II was so popular when it hit the arcades that several of the machines were later installed with deadlock security panels on the back to prevent thieves from ripping the game’s motherboard straight out of the machine and taking it home.❞</i>
+<i>❝“Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.”— Kevin Mitnick   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![sorxcode's github stats](https://github-readme-stats.vercel.app/api?username=sorxcode&show_icons=true&theme=highcontrast)
