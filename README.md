@@ -10,7 +10,7 @@
 - 🍜 LinkedIn: [Sorxcode](http://linkedin.com/in/sorxcodex)
 
 - ☕ Fun fact: <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Standards are always out of date.  That’s what makes them standards.”— Alan Bennett   ❞</i>
+<i>❝“Programs must be written for people to read, and only incidentally for machines to execute.”— Abelson and Sussman   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![sorxcode's github stats](https://github-readme-stats.vercel.app/api?username=sorxcode&show_icons=true&theme=highcontrast)
