@@ -10,7 +10,7 @@
 - 🍜 LinkedIn: [Sorxcode](http://linkedin.com/in/sorxcodex)
 
 - ☕ Fun fact: <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The Internet?  We are not interested in it.”— Bill Gates, 1993   ❞</i>
+<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![sorxcode's github stats](https://github-readme-stats.vercel.app/api?username=sorxcode&show_icons=true&theme=highcontrast)
