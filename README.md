@@ -1,8 +1,8 @@
-# Victor Adeyanju
+# Victor Adeyanju Farinnako
 
 - 🔭 Role: Software Engineer
-- 🛠 Learning: Golang ||| Rust
-- 🤹‍ Familiar with: EVM-like blockchains, infrastructure, and orchestration
+- 🛠 Learning: Golang | Distributed Systems
+- 🤹‍ Familiar with: EVM-like blockchains, infrastructures, and orchestration
 - 🎯 Currently working with: Python, solidity, AWS & Kubernetes (Devops), Golang, and Rust
 - 🏓 I’m looking to collaborate on: Software/Infra Development
 - 🍜 Discord: sorxcode#3183
