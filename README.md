@@ -1,4 +1,4 @@
-# Victor Adeyanju Farinnako
+# Adeyanju Victor Farinnako
 
 - 🔭 Role: Software Engineer
 - 🛠 Learning: Golang | Distributed Systems
